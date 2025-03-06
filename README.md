@@ -22,12 +22,5 @@ This project implements a cloud-based API to predict health insurance charges us
 ## Image Preview
 ![Students Admission Report](https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/Students%20Admission%20Report.png)
 
-## License
-MIT License
-
-Copyright (c) 2025 Muhammed Shahan P P
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-
 ## Contact
 For questions, contact me at **shahuuraff@gmail.com** or connect on LinkedIn.
