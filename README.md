@@ -19,8 +19,8 @@ This project implements a cloud-based API to predict health insurance charges us
 ## Deployment Instructions
 - Deploy manually in GCP Cloud Run (or Functions if available) with the inline editor or CLI: **gcloud run deploy predict-insurance-manual --region us-central1 --allow-unauthenticated --source**
 
-## Image Preview
-![PDF](https://github.com/muhdshahan/health-insurance-price-prediction-gcp/blob/main/Git%20readme/Project.pdf)
+## Workflow
+![Click Here](https://github.com/muhdshahan/health-insurance-price-prediction-gcp/blob/main/Git%20readme/Project.pdf)
 
 ## Contact
 For questions, contact me at **shahuuraff@gmail.com** or connect on LinkedIn.
