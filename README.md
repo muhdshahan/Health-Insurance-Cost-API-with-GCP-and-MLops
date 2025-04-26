@@ -1,4 +1,4 @@
-# health-insurance-price-prediction-gcp
+# Health Insurance Estimator - API {GCP & MLOPS}
 
 ## Description
 This project implements a cloud-based API to predict health insurance charges using a Linear Regression model deployed on Google Cloud Platform (GCP). It leverages Cloud Run (or Cloud Functions) for serverless deployment, Google Cloud Storage for model storage, and Python for development.
